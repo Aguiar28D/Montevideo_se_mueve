@@ -2,11 +2,11 @@
 
 This project analyzes road traffic crashes in Montevideo, Uruguay, during 2022. It was developed as part of the course *Fundamentals of Programming for Data Science and AI*, in the specialization program by UTEC and MIT.
 
-## 📊 Objective
+## Objective
 
 To explore patterns in traffic incidents involving injuries, using real-world data from the national transit system (SINATRAN), and to provide data-driven recommendations for improving urban mobility and public safety in Montevideo.
 
-## 🧠 Methods
+## Methods
 
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
@@ -14,21 +14,21 @@ To explore patterns in traffic incidents involving injuries, using real-world da
 - Time series visualization
 - Policy-oriented synthesis
 
-## 🗂️ Dataset
+##  Dataset
 
 - Source: [catalogodatos.gub.uy](https://catalogodatos.gub.uy)
 - Observations: 7,802
 - Variables: 19 (age, gender, role, vehicle type, location, injury severity, date/time, etc.)
 - Scope: All registered injury-related traffic incidents in Montevideo in 2022
 
-## 🔎 Key Findings
+## Key Findings
 
 - Most incidents involve **men aged 23–46** riding **two-wheeled vehicles**
 - **87%** of outcomes are minor injuries
 - **Urban zones** and **afternoon hours** see the highest frequency
 - **Collisions dominate**, often on fast-moving main roads
 
-## 🚦 Policy Recommendations
+## Policy Recommendations
 
 Based on the analysis, the team proposed six targeted policy measures:
 
@@ -39,7 +39,7 @@ Based on the analysis, the team proposed six targeted policy measures:
 5. **Elderly Protection** – enhance safety around vulnerable populations
 6. **Driver Responsibility** – enforce norms and promote responsible behavior
 
-## 👥 Authors
+## Authors
 
 Diego Aguiar, Andrea Aranda, Gerardo González, Mariana Sambucetti
 

@@ -45,6 +45,6 @@ Diego Aguiar, Andrea Aranda, Gerardo González, Mariana Sambucetti
 
 ---
 
-📁 View the full notebook for visualizations, code, and detailed discussion.
+View the full notebook for visualizations, code, and detailed discussion.
 
-🧪 Explore more projects at [https://aguiar28d.github.io](https://aguiar28d.github.io)
+Explore more projects at [https://aguiar28d.github.io](https://aguiar28d.github.io)
